@@ -1,0 +1,5 @@
+# Ignora los ficheros bg-01.jpg bg-lt.jpg
+#
+# No ignora los ficheros bg-1.jpg y bg-001.jpg
+#
+bg-??.jpg
